@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# datasets
+datasets/
+
+# data
+data/**/
+.idea/
+__pycache__/
+
+weights/*
+
+nets/pre_train_net/*
